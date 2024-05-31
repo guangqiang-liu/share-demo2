@@ -15,7 +15,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <button onClick={handleButtonClick}>通过Scheme打开APP，新的Scheme是xtransferapp</button>
+        <button onClick={handleButtonClick}>通过Scheme打开APP，新的Scheme是xtransferapp!</button>
       </header>
     </div>
   );
